@@ -10,11 +10,9 @@
     git clone git@github.com:Purdue-ECE438-Labs/lab8-<github_username>.git  # using SSH
     ```
 
-2. Lab instructions can be found in [`lab8_instructions.pdf`](lab8_instructions.pdf).
+2. Complete the individual lab report `lab8_individual_report.ipynb`.
 
-3. Complete the individual lab report `lab8_individual_report.ipynb`.
-
-4. If you are in a group of more than 1, work with your group member(s) to complete the final lab report `lab8_final_report.ipynb`.
+3. If you are in a group of more than 1, work with your group member(s) to complete the final lab report `lab8_final_report.ipynb`.
 
 ## Special Instructions
 
